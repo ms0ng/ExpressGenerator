@@ -1,0 +1,5 @@
+    
+    /// <summary>
+    /// Template Property Summary
+    /// </summary>
+    public long TemplatePropertyName => GetTemplatePropertyValue();

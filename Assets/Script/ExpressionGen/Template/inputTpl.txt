@@ -1,0 +1,5 @@
+
+    /// <summary>
+    /// Template Input Value Summary
+    /// </summary>
+    public long inputValue = 0;

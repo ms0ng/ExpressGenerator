@@ -1,0 +1,9 @@
+
+    /// <summary>
+    /// Template Method Summary
+    /// </summary>
+    /// <returns></returns>
+    private long GetTemplatePropertyValue()
+    {
+        return 0;
+    }
